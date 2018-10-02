@@ -13,6 +13,9 @@ public class JavaBdGitHub {
         
         System.out.println("Suma de valores "+suma);
         
+        System.out.println("hola");
+        System.out.println("Hola Jny");
+        
     }
     
 }
