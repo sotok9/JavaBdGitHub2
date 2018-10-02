@@ -7,6 +7,12 @@ public class JavaBdGitHub {
         System.out.println("Hola Java BD GitHub");
         System.out.println("Hola chicos del proyecto");
         
+        int v1 = 2;        
+        int v2 = 2;
+        int suma = v1 + v2;
+        
+        System.out.println("Suma de valores "+suma);
+        
     }
     
 }
