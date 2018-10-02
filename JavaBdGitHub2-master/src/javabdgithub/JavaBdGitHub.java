@@ -12,7 +12,7 @@ public class JavaBdGitHub {
         int suma = v1 + v2;
         
         System.out.println("Suma de valores "+suma);
-        System.out.println("sdf");
+        System.out.println("Hola mundo soy eimy");
         
     }
     
